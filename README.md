@@ -4,7 +4,7 @@
 
 Sistema de administración de biblioteca desarrollado con Spring Boot y Oracle Database con procedimientos almacenados en PL/SQL.
 
-## 🛠Tecnologías
+## Tecnologías
 
 - **Backend**: Spring Boot 3, Java 17
 - **Base de Datos**: Oracle Database 
@@ -31,7 +31,7 @@ Sistema de administración de biblioteca desarrollado con Spring Boot y Oracle D
 - Reporte de préstamos en mora
 - Cálculo de multas pendientes
 
-## 📊 Endpoints API REST
+## Endpoints API REST
 
 ### Libros
 ```
